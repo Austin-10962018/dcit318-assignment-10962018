@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Austin Atsu\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Austin Atsu\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Austin Atsu\\source\\repos\\dcit318-assignment-10962018\\ConsoleApp1\\Grade Calculator.csproj",
+      "projectName": "Grade Calculator",
+      "projectPath": "C:\\Users\\Austin Atsu\\source\\repos\\dcit318-assignment-10962018\\ConsoleApp1\\Grade Calculator.csproj",
       "packagesPath": "C:\\Users\\Austin Atsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Austin Atsu\\source\\repos\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Austin Atsu\\source\\repos\\dcit318-assignment-10962018\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

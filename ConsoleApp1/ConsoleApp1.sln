@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{573A8F6C-BEC6-4D0D-95E2-90E94B6A599B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grade Calculator", "Grade Calculator.csproj", "{573A8F6C-BEC6-4D0D-95E2-90E94B6A599B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketPriceCalc", "..\ConsoleApp2\TicketPriceCalc.csproj", "{0949EBEB-E495-4E2E-A719-7358DE246FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleTypeId", "..\TriangleTypeId\TriangleTypeId.csproj", "{4F0ED77C-6E09-4708-979B-0127CA1A974D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{573A8F6C-BEC6-4D0D-95E2-90E94B6A599B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{573A8F6C-BEC6-4D0D-95E2-90E94B6A599B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{573A8F6C-BEC6-4D0D-95E2-90E94B6A599B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0949EBEB-E495-4E2E-A719-7358DE246FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0949EBEB-E495-4E2E-A719-7358DE246FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0949EBEB-E495-4E2E-A719-7358DE246FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0949EBEB-E495-4E2E-A719-7358DE246FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0ED77C-6E09-4708-979B-0127CA1A974D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0ED77C-6E09-4708-979B-0127CA1A974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0ED77C-6E09-4708-979B-0127CA1A974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0ED77C-6E09-4708-979B-0127CA1A974D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
