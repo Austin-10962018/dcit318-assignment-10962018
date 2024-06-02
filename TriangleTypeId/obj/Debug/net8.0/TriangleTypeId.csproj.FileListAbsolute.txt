@@ -1,0 +1,15 @@
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\bin\Debug\net8.0\TriangleTypeId.exe
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\bin\Debug\net8.0\TriangleTypeId.deps.json
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\bin\Debug\net8.0\TriangleTypeId.runtimeconfig.json
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\bin\Debug\net8.0\TriangleTypeId.dll
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\bin\Debug\net8.0\TriangleTypeId.pdb
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.AssemblyInfoInputs.cache
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.AssemblyInfo.cs
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.csproj.CoreCompileInputs.cache
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.sourcelink.json
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.dll
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\refint\TriangleTypeId.dll
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.pdb
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\TriangleTypeId.genruntimeconfig.cache
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\TriangleTypeId\obj\Debug\net8.0\ref\TriangleTypeId.dll

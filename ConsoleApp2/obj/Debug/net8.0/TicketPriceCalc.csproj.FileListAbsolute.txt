@@ -1,0 +1,15 @@
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\bin\Debug\net8.0\TicketPriceCalc.exe
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\bin\Debug\net8.0\TicketPriceCalc.deps.json
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\bin\Debug\net8.0\TicketPriceCalc.runtimeconfig.json
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\bin\Debug\net8.0\TicketPriceCalc.dll
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\bin\Debug\net8.0\TicketPriceCalc.pdb
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.AssemblyInfoInputs.cache
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.AssemblyInfo.cs
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.csproj.CoreCompileInputs.cache
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.sourcelink.json
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.dll
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\refint\TicketPriceCalc.dll
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.pdb
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\TicketPriceCalc.genruntimeconfig.cache
+C:\Users\Austin Atsu\source\repos\dcit318-assignment-10962018\ConsoleApp2\obj\Debug\net8.0\ref\TicketPriceCalc.dll
